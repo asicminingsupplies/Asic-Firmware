@@ -1,5 +1,11 @@
 #  Goldshell Miner Firmware 
 
+## IMPORTANT NOTE
+
+
+Goldshell runs an official Repo here on github. They do a pretty good job of keeping things up to date and storing old firmware. We do not feel the need right now to copy their repo other than to make a clone.
+
+
 ## Introduction
 
 
