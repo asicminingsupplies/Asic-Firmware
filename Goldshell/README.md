@@ -3,7 +3,7 @@
 ## IMPORTANT NOTE
 
 
-Goldshell runs an official Repo here on github. They do a pretty good job of keeping things up to date and storing old firmware. We do not feel the need right now to copy their repo other than to make a clone.
+[Goldshell runs an official Repo here](https://github.com/goldshellminer/firmware) on github. They do a pretty good job of keeping things up to date and storing old firmware. We do not feel the need right now to copy their repo other than to make a clone. A copy of their main readme is below.
 
 
 ## Introduction
