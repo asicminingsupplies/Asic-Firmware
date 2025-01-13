@@ -1,0 +1,11 @@
+release note：
+Just for 1066，1056 miners.
+*. Change TCP/IP stack from W5500 to LwIP
+*. Decrease frequency and voltage automatically when PSU is almost overloaded
+*. Support 3 pools
+*. Extranonce supported
+*. Add WDT support
+*. Optimization for fan speed, chip temprature, and power consumption
+*. Change default DNS server to AliYun and Tencent
+*. Optimized boot speed.
+*. Some bug fixes
