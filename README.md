@@ -1,5 +1,7 @@
 # ⚙️ ASIC Firmware Repository (AFR)
 
+![ASIC Firmware Logo](https://solmine-shopify-media.s3.amazonaws.com/afr.png "ASIC Firmware Repository Logo")
+
 **A comprehensive backup repository of ASIC firmware to preserve and provide access to various versions across multiple manufacturers.**
 
 ## 📑 Table of Contents
