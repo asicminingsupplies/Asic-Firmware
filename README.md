@@ -1,4 +1,4 @@
-# Asic-Firmware
+# ASIC Firmware Repository (AFR)
 
 **A comprehensive backup repository of ASIC firmware to preserve and provide access to various versions across multiple manufacturers.**
 
