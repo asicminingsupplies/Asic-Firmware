@@ -86,8 +86,8 @@ This repository is licensed under the [GNU General Public License v3.0](LICENSE)
 
 ## 💰 Donations
 
-- **BTC**: Add your BTC wallet address here  
-- **ETH**: Add your ETH wallet address here  
+- **BTC**: bc1qkuzc2nkfzxrth60jrxfrt5q6smwp5dg4hjgrhz 
+- **ETH**: 0x7E5f0fFdd567bb12ad0e193f3DfDe673E7bA978e
 
 ## ⚠️ Disclaimer
 
