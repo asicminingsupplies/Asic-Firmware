@@ -1,16 +1,31 @@
 # **ASIC Firmware Repository - Bitmain Antminer**
 
-Welcome to the official **ASIC Firmware Repository** for Bitmain Antminer models. This repository provides firmware for a variety of Antminer models, organized by algorithm, model, and firmware version. Below you’ll find a breakdown of the latest available firmware files and their release notes. If you are looking for older firmware, navigate to the corresponding model directory. We do recommend you attempt to pull official firmware from Bitmain's site and use this source as a backup where possible.
+Welcome to the official **ASIC Firmware Repository** for Bitmain Antminer models. This repository provides firmware for a variety of Antminer models, organized by model and firmware version. Below you’ll find a breakdown of the latest available firmware files and their release notes. 
+
+If you are looking for older firmware, navigate to the corresponding model directory. We recommend attempting to pull official firmware from Bitmain's site and using this source as a backup.
+
+---
+
+## **Table of Contents**
+1. [Using This Repository](#using-this-repository)
+2. [Firmware Tables](#firmware-tables)
+    - [Blake256r14 Firmware](#blake256r14-firmware)
+    - [Scrypt Firmware](#scrypt-firmware)
+    - [kHeavyHash Firmware](#kheavyhash-firmware)
+3. [Contributions](#contributions)
+4. [Disclaimer](#disclaimer)
 
 ---
 
 ## **Using This Repository**
-1. **Locate Your Firmware:** Use the table above to find the appropriate firmware for your specific Antminer model and algorithm.
+1. **Locate Your Firmware:** Use the firmware tables to find the appropriate firmware for your specific Antminer model.
 2. **Download:** Navigate to the corresponding directory and download the firmware file.
 3. **Install:** Follow Bitmain's official firmware installation guidelines to update your device.
 4. **Release Notes:** Review the release notes for updates, improvements, and known issues.
 
 ---
+
+## **Firmware Tables**
 
 ## **Blake256r14 Firmware**
 
