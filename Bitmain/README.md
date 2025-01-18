@@ -20,10 +20,8 @@ Welcome to the official **ASIC Firmware Repository** for Bitmain Antminer models
 | DR5    | DR5-202111021517_sig.tar.gz           | Signed Firmware   |
 | DR7         | DR7-release-202405280928.bmu         | Optimized firmware.     |
 
-
-
-
 ---
+
 ## **Scrypt Firmware**
 
 
@@ -37,6 +35,7 @@ Welcome to the official **ASIC Firmware Repository** for Bitmain Antminer models
 | L9          | L9-CV-release-202408211920.bmu           | ANTMINER L9. initial firmware.   |
 
 ---
+
 ## **SHA-256 Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
@@ -105,6 +104,127 @@ Welcome to the official **ASIC Firmware Repository** for Bitmain Antminer models
 | S19 Pro A         | S19-Pro-A-merge-release-20221226124600.bmu| Support low power mode.
 
 ---
+
+## **kHeavyHash Firmware**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| KS3        | KS3-CV-release-202404091643.bmu         | Optimize the firmware.    |
+| KS5   | KS5-CV-release-202408281112.bmu            | This version of firmware is also available for the KS5 Pro and KS5 18T models. Updates： 1. Optimized firmware.   |
+
+
+---
+
+## **X11 Firmware**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| R3       | AntRouter-R3-LTC-SIA-DASH-20180815.bin          | No Notes    |
+| D3  | D3-201811131204-0M.tar.gz            | Security Firmware, Fix some security vulnerabilities.   |
+| D5        | D5-mode-350M-201908192031.tar.gz          | 1. Enhance anti-virus capability；2. Use new build tools to build firmware.    |
+| D7  | D7-release-202110201043.bmu            | D7 Miner initial firmware version.   |
+| D9  | D9-release-202405280927.bmu             | Refine firmware.  |
+
+
+---
+## **Etcash ETHW ETHASH**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| E3       | E3_V540_0327.tar.gz           | 1.Extend the E3 miner life. 2.Fix corner case that E3 miner abnormal operation on ETC.    |
+| E9  | 9-ETC-release-202305231828.bmu            | 1. Support ETC.2. This version of the firmware supports the E&F power mode of APW12. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.   |
+| E9 Pro        | E9-Pro-ETC-release-202403211900.bmu           | Support ETC. 2. This version of the firmware supports the E&F power mode of APW12. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.   |
+
+---
+## **Equilhash**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| Z15      | Z15-user-800M-202007031139_6134.tar.gz            | Release the first version official Z15 firmware.    |
+| Z11  | ANTMINER-Z11-fixed-718M-201910241109_4392.tar.gz             | 1.Update equihash Algorithm. 2.Enhance anti-virus capability. 3.Fix firmware package decompression issue.    |
+| Z9        | Z9-fixed-500M-201905171645.tar.gz           | 1.Z9 security firmware.   |
+| Z9 Mini        | Z9-Mini-fixed-500M-201905171644.tar.gz           | 1.Z9mini security firmware.   |
+| Z15 Pro        | Z15-Pro-release-202309060712.bmu            | 1. Optimize the firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.  |
+
+---
+## **Blake2B+SHA3**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| HS3      | HS3-release-202405280928.bmu             | 1. Optimize the firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.    |
+
+---
+## **RandomX**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| X3      | X3-201811131315-0M.tar.gz              | Security Firmware, Fix some security vulnerabilities. |
+| X5      | X5-CV-release-202406221844.bmu            | Support APW121215f power supply. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.    |
+
+---
+## **BTM Tensority**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| B7      | B7-xilinx-201910101434-500M-user-Update2UBI-NF_4196.tar.gz               | 1. Fix hashrate fluctuation in specail corner case.2. Enhance anti-virus capability.3. Support blacklist feature during updating firmware.4.You can't upgrade previous secure firmware after using this version.5. Fix decompression bug during firmware upgrade. |
+| B3      | update_1000.tar.gz            | Firmware for improving hashrate，Do not power off during the upgrade！    |
+
+---
+## **SC Blake(2b)**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| R3      | R3-LTC-SIA-DASH-20180815.bin               | No Comments
+| A3     | A3-201811131136-0M.tar.gz            | Security Firmware, Fix some security vulnerabilities.    |
+
+---
+## **CKB Eaglesong**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| K7      | K7-release-202403241334.bmu               | 1. Optimized firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.
+| K5     | K5-0-202005131621-sig_5872.tar.gz            | Support extranonce subscribe for nicehash pool. vulnerabilities.    |
+
+---
+## **ETH Graphics**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| G2      | G2-2018-07-22-clay11.9-img.rar               | G2-iso
+
+
+---
+## **KDA Blake2S**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| KA3      | KA3-release-202405280928.bmu                | Refine firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.
+
+
+---
+---
+## **Tools**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| APMinerTool     | APMinerTool_V1.0.10.zip                | Monitor software for mining farms. Batch monitor and manage miners, scan LAN miners’ IP simultaneously, batch upgrade firmware and restart miners in bulk. |
+|  BitminerTool    | BitmainMinerTool-bin.zip   | * This is binary files without installation framework.* Download and use it without installation * winXP may need install .NET framework at first . |
+|  Ip Reporter   | IP Reporter.zip    | * This is binary files without installation framework.* Download and use it without installation * winXP may need install .NET framework at first . |
+|  Image SD Card   | Tools and Instructions to Image SD card   | No Comment |
+|  BitminerTool    | BitmainMinerTool-bin.zip   | * This is binary files without installation framework.* Download and use it without installation * winXP may need install .NET framework at first . |
+
+
+---
+---
+## **ALPH+Blake3**
+
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| AL1    | AL1-CV-release-202408151805.bmu                 | ANTMINER AL1 initial firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware |
+
+
+---
+
 
 ## **Contributions**
 If you have additional firmware versions or updates, feel free to contribute! Submit a pull request or reach out to us for assistance.
