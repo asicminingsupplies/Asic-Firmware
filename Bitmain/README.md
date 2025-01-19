@@ -11,7 +11,21 @@ If you are looking for older firmware, navigate to the corresponding model direc
 2. [Firmware Tables](#firmware-tables)
     - [Blake256r14 Firmware](#blake256r14-firmware)
     - [Scrypt Firmware](#scrypt-firmware)
-    - [kHeavyHash Firmware](#kheavyhash-firmware)
+    - [SHA-256 Firmware](#SHA-256-firmare)
+    - [kHeavyHash Firmware](#SHA-256-firmare)
+    - [X11 Firmware](#X11-firmware)
+    - [Etcash ETHW ETHASH Firmware](#Etcash-ETHW-ETHASH-firmware)
+    - [Equilhash Firmware](#Equilhash-firmware)
+    - [RandomX Firmware](#RandomX-firmware)
+    - [Blake2B+SHA3](#Blake2B+SHA3-firmware)
+    - [BTM Tensority](#BTM-Tensority-firmware)
+    - [SC Blake(2b)](#SC-Blake-firmware)
+    - [RandomX Firmware](#RandomX-firmware)
+    - [CKB Eaglesong Firmware](#CKB-Eaglesong-firmware)
+    - [ETH Graphics Firmware](#ETH-Graphics-firmware)
+    - [KDA Blake2S Firmware](#KDA-Blake2S-firmware)
+    - [Tools](#Tools)
+    - [ALPH+Blake3 Firmware](#ALPH+Blake3-firmware)
 3. [Contributions](#contributions)
 4. [Disclaimer](#disclaimer)
 
@@ -142,7 +156,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 
 
 ---
-## **Etcash ETHW ETHASH**
+## **Etcash ETHW ETHASH Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -151,7 +165,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | E9 Pro        | E9-Pro-ETC-release-202403211900.bmu           | Support ETC. 2. This version of the firmware supports the E&F power mode of APW12. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.   |
 
 ---
-## **Equilhash**
+## **Equilhash Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -162,14 +176,14 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | Z15 Pro        | Z15-Pro-release-202309060712.bmu            | 1. Optimize the firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.  |
 
 ---
-## **Blake2B+SHA3**
+## **Blake2B+SHA3 Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
 | HS3      | HS3-release-202405280928.bmu             | 1. Optimize the firmware. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.    |
 
 ---
-## **RandomX**
+## **RandomX Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -177,7 +191,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | X5      | X5-CV-release-202406221844.bmu            | Support APW121215f power supply. Please make sure the miner type and firmware type are the same before upgrading the miner firmware.    |
 
 ---
-## **BTM Tensority**
+## **BTM Tensority Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -185,7 +199,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | B3      | update_1000.tar.gz            | Firmware for improving hashrate，Do not power off during the upgrade！    |
 
 ---
-## **SC Blake(2b)**
+## **SC Blake(2b) Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -193,7 +207,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | A3     | A3-201811131136-0M.tar.gz            | Security Firmware, Fix some security vulnerabilities.    |
 
 ---
-## **CKB Eaglesong**
+## **CKB Eaglesong Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -201,7 +215,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 | K5     | K5-0-202005131621-sig_5872.tar.gz            | Support extranonce subscribe for nicehash pool. vulnerabilities.    |
 
 ---
-## **ETH Graphics**
+## **ETH Graphics Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -209,7 +223,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 
 
 ---
-## **KDA Blake2S**
+## **KDA Blake2S Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
@@ -231,7 +245,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 
 ---
 ---
-## **ALPH+Blake3**
+## **ALPH+Blake3 Firmware**
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
