@@ -44,8 +44,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
 
 | **Model**   | **Firmware Version** | **Release Notes**                 |
 |-------------|-----------------------|------------------------------------|
-| H6 (M3x, M2x series) |  H6 SD Card Program-20210121.zip
- | 2.1 H6 control board card brush system file, including instructions and burning software； 2.2 After that you will need to upgrade the latest firmware,if the miner is not upgraded, there will be error code 201-8410;   |
+| H6 (M3x, M2x series) |  H6 SD Card Program-20210121.zip | 2.1 H6 control board card brush system file, including instructions and burning software； 2.2 After that you will need to upgrade the latest firmware,if the miner is not upgraded, there will be error code 201-8410;   |
 | H6 (M10, D1)  | M10 and D1- H6 SD Card Program-190404.zip  | WhatsMiner M10, D1；  |
 ---
 ## **H60s Firmware**
