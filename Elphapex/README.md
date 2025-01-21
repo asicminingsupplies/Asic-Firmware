@@ -1,6 +1,6 @@
-# **ASIC Firmware Repository - Elphapex Antminer**
+# **ASIC Firmware Repository - Elphapex**
 
-Welcome to the official **ASIC Firmware Repository** for Elphapex Antminer models. This repository provides firmware for a variety of Elphapex models, organized by model and firmware version. Below you’ll find a breakdown of the latest available firmware files and their release notes. 
+Welcome to the official **ASIC Firmware Repository** for Elphapex models. This repository provides firmware for a variety of Elphapex models, organized by model and firmware version. Below you’ll find a breakdown of the latest available firmware files and their release notes. 
 
 If you are looking for older firmware, navigate to the corresponding model directory. We recommend attempting to pull official firmware from Elphapex site and using this source as a backup.
 
