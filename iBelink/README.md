@@ -1,94 +1,76 @@
-# ⚙️ ASIC Firmware Repository (AFR)
+# **ASIC Firmware Repository - ibelink**
 
-![ASIC Firmware Logo](https://solmine-shopify-media.s3.amazonaws.com/afr.png "ASIC Firmware Repository Logo")
+Welcome to the official **ASIC Firmware Repository** for ibelink models. This repository provides firmware for a variety of ibelink models, organized by model and firmware version. Below you’ll find a breakdown of the latest available firmware files and their release notes. 
 
-**A comprehensive backup repository of ASIC firmware to preserve and provide access to various versions across multiple manufacturers.**
+If you are looking for older firmware, navigate to the corresponding model directory. As of right now we highly recommend downloading from the ibelink official site.
 
-## 📑 Table of Contents
+---
 
-- [✨ Introduction](#-introduction)
-- [🗂️ Repository Structure](#️-repository-structure)
-- [🔧 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [💰 Donations](#-donations)
-- [⚠️ Disclaimer](#️-disclaimer)
+## **Table of Contents**
+1. [Using This Repository](#using-this-repository)
+2. [Firmware Tables](#firmware-tables)
+    - [BM-K1-BM-K1Max-BM-S1-BM-S1Max Firmware](#BM-K1-BM-K1Max-BM-S1-BM-S1Max-firmware)
+    - [BM-K3Mini-BM-N3Mini Firmware](#BM-K3Mini-BM-N3Mini-firmware)
+    - [BM-KSMax-BM-S3-BM-K3-BM-N3 Firmware](#BM-KSMax-BM-S3-BM-K3-BM-N3-firmware)
+    - [BM-L3 and BM-L3L Firmware](#BM-L3 and BM-L3L-firmware)
+    - [Tools](#Tools)
+3. [Contributions](#contributions)
+4. [Disclaimer](#disclaimer)
 
-## ✨ Introduction
+---
 
-This repository serves as a centralized archive for ASIC firmware, preserving these essential software components to ensure they remain accessible over time. The goal is to support the cryptocurrency mining community by providing reliable access to firmware for a wide range of ASIC devices.
+## **Using This Repository**
+1. **Locate Your Firmware:** Use the firmware tables to find the appropriate firmware for your specific ibelink model.
+2. **Download:** Navigate to the corresponding directory and download the firmware file.
+3. **Install:** Follow ibelink official firmware installation guidelines to update your device.
+4. **Release Notes:** Review the release notes for updates, improvements, and known issues.
 
-In the fast-evolving world of cryptocurrency mining, many boutique manufacturers have disappeared long before their mining equipment becomes obsolete. Others maintain poorly organized websites or rely on unreliable third-party file hosting services, making it challenging for users to find and download the firmware they need. This repository addresses these issues by offering a well-organized, permanent, and easily accessible resource for miners and enthusiasts alike.
+---
 
-## 🤝 Sponsored By
-- **Asicminingsupplies.com**
-- **Sol Mine Inc**
+## **Firmware Tables**
 
-## 🗂️ Repository Structure
+## **BM-K1-BM-K1Max-BM-S1-BM-S1Max Firmware**
 
-The repository is organized by manufacturer and device model for easy navigation:
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| BM-K1-BM-K1Max-BM-S1-BM-S1Max | BM-K1-BM-K1Max-BM-S1-BM-S1Max-V5.5.32.gz | If update, please reconfig the pools setting.  |
 
-- **📁 Bitmain/**
-  - Antminer S9/
-  - Antminer S17/
-  - ...
-- **📁 Canaan/**
-  - AvalonMiner 1066/
-  - AvalonMiner 1246/
-  - ...
-- **📁 Innosilicon/**
-  - T2T-30T/
-  - A10 Pro/
-  - ...
-- **📁 Whatsminer/**
-  - M20S/
-  - M30S/
-  - ...
-- **📁 Other Manufacturers/**
+## **BM-K3Mini-BM-N3Mini Firmware**
 
-Each device model directory contains:
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| BM-K3Mini-BM-N3Mini |  BM-K3Mini-BM-N3Mini-V4.10.18.gz
+ | No update notes |
+| SD-Firmware Flashing  | AndroidTool_Release.zip  | When the Mini model miner's system crashes, you can download the image to re-burn the onboard nand. Follow the instructions in the compressed package (re-burning NAND is not recommended)  |
+---
+## **BM-KSMax-BM-S3-BM-K3-BM-N3 Firmware**
 
-- **📝 Firmware Files**: The actual firmware binaries.
-- **📄 Release Notes**: Information about firmware versions, features, and changes.
-- **📚 Documentation**: Manuals or guides related to firmware installation and device operation.
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| BM-KSMax-BM-S3-BM-K3-BM-N3 |  BM-KSMax-BM-S3-BM-K3-BM-N3-V6.0.40.gz  | Mainly used to limit BM-S1Max power consumption.   |
+| SD-Firmware Flashing  | Burning20240517.tar.gz   | When the system crashes, you can re-burn the control board. Follow the instructions in the package (re-burning is not recommended if not necessary).   |
+---
+## **BM-L3 and BM-L3L Firmware**
 
-## 🔧 Usage
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| BM-L3 and BM-L3L | BM-L3 and BM-L3L-V7.0.13.gz   | If update, please reconfig the pools setting. |
+---
 
-To utilize the firmware from this repository:
+## **Tools**
 
-1. **🔍 Identify Your Device**: Determine the manufacturer and model of your ASIC device.
-2. **🗂️ Navigate the Repository**: Browse to the corresponding directory.
-3. **📥 Download Firmware**: Select and download the appropriate firmware version.
-4. **📖 Review Documentation**: Read any available release notes and installation guides.
-5. **⚙️ Install Firmware**: Follow the manufacturer's recommended procedures for firmware installation.
+| **Model**   | **Firmware Version** | **Release Notes**                 |
+|-------------|-----------------------|------------------------------------|
+| Device Search tool | DeviceSearchtool.zip     | If Miner Device Tool |
+| Miner Tool | MinerTool.zip    | Intelligent mine monitoring software, batch monitoring of miner operating status, batch configuration of miners, batch firmware upgrade, batch restart, support simultaneous scanning of multiple LA. |
+---
 
-**❗ Important**: Always verify that the firmware version is compatible with your specific device model to prevent potential issues.
+## **Contributions**
+If you have additional firmware versions or updates, feel free to contribute! Submit a pull request or reach out to us for assistance.
 
-## 🤝 Contributing
+---
 
-We welcome contributions to expand and update this repository:
+## **Disclaimer**
+All firmware provided here is for informational and educational purposes. Please ensure compatibility with your devices before installation. We are not responsible for any issues arising from firmware updates.
 
-- **➕ Adding New Firmware**: Submit firmware files not currently in the repository.
-- **🔄 Updating Existing Firmware**: Provide newer versions or additional documentation.
-- **✍️ Improving Documentation**: Enhance guides, release notes, or organizational structure.
-
-To contribute:
-
-1. **🔗 Fork the Repository**: Create a personal copy of the repository.
-2. **🌱 Create a New Branch**: For your changes.
-3. **📤 Submit a Pull Request**: Describe your changes and submit for review.
-
-Please ensure that all contributions comply with the repository's [📜 License](#-license) and [⚠️ Disclaimer](#️-disclaimer).
-
-## 📜 License
-
-This repository is licensed under the [GNU General Public License v3.0](LICENSE).
-
-## 💰 Donations
-
-- **BTC**: bc1qkuzc2nkfzxrth60jrxfrt5q6smwp5dg4hjgrhz 
-- **ETH**: 0x7E5f0fFdd567bb12ad0e193f3DfDe673E7bA978e
-
-## ⚠️ Disclaimer
-
-The firmware provided in this repository is for archival and educational purposes. Use them at your own risk. The repository maintainers are not responsible for any issues arising from the use of these firmware files. Always follow the manufacturer's guidelines and ensure compatibility with your device before installation.
+---
