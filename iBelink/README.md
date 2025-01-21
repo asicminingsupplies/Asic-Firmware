@@ -12,7 +12,7 @@ If you are looking for older firmware, navigate to the corresponding model direc
     - [BM-K1-BM-K1Max-BM-S1-BM-S1Max Firmware](#BM-K1-BM-K1Max-BM-S1-BM-S1Max-firmware)
     - [BM-K3Mini-BM-N3Mini Firmware](#BM-K3Mini-BM-N3Mini-firmware)
     - [BM-KSMax-BM-S3-BM-K3-BM-N3 Firmware](#BM-KSMax-BM-S3-BM-K3-BM-N3-firmware)
-    - [BM-L3 and BM-L3L Firmware](#BM-L3 and BM-L3L-firmware)
+    - [BM-L3 and BM-L3L Firmware](#BM-L3-and-BM-L3L-firmware)
     - [Tools](#Tools)
 3. [Contributions](#contributions)
 4. [Disclaimer](#disclaimer)
